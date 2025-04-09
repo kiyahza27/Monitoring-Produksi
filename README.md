@@ -6,7 +6,8 @@
 #### 1. Landing Page
 ![Image of Landing Page](https://github.com/kiyahza27/Monitoring-Produksi/blob/main/Features/Landing%20Page.png)
 
-
+#### 2. Login Page 
+![Image of Login Page](https://github.com/kiyahza27/Monitoring-Produksi/blob/main/Features/Login%20Page.png)
 
 #### 3. Dashboard Admin 
 ![Image of Dashboard Admin](https://github.com/kiyahza27/Monitoring-Produksi/blob/main/Features/Dashboard%20Admin.png)
